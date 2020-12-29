@@ -1,0 +1,8 @@
+[submodule "INNOVAHN13"]
+	path = INNOVAHN13
+	url = git@github.com:Innovahn/INNOVAHN13.git
+	branch = master
+[submodule "INNOVAHN13E"]
+	path = INNOVAHN13E
+	url = git@github.com:Innovahn/INNOVAHN13E.git
+	branch = master
